@@ -10,7 +10,7 @@ Instructions to compile the code:
 After excuting the code open browser localhost:80 you should be abale to see index.html open on your browser.</br>
 ![](screenshots/webserver.png)</br>
 
-Requsting any other files in the directry will be downloaded.</br>
+Requsting any other files in the directry, will be downloaded.</br>
 
 If you have any problem starting your server on default port 80, try changing the ownership of a.out file.</br>
 
